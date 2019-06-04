@@ -1,0 +1,13 @@
+Aufgabe 1.1
+a)
+v0 = 7,66 km/s
+time = 1,54 h
+b)
+v0 = 10,85 km/s
+c)
+h0 = 35000 km
+v0 = 3 km/s
+
+Aufgabe 1.2
+theta = 25°
+v0 = 10,959 km/s
